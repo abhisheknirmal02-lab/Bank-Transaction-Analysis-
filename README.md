@@ -73,7 +73,7 @@ This dashboard provides real-time insights into transactions, customers, and ris
 ## 📷 Dashboard Preview
 
 **Overview Analysis**
-![Overview Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/Bank-Transaction-Analysis-/main/Overview_Analysis.png)
+![Overview Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/Bank-Transaction-Analysis-/main/Overview%20Analysis.png)
 
 **Transactions View**
 ![Transactions](https://raw.githubusercontent.com/abhisheknirmal02-lab/Bank-Transaction-Analysis-/main/Transaction.png)
